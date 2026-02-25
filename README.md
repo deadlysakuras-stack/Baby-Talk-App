@@ -1,2 +1,2 @@
 # Baby-Talk-App
-an auto translate app i made for my friend
+an auto translate app me and a friend made for my friend
